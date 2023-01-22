@@ -11,4 +11,4 @@ Walmart Screenshot
 
 Airline Price Prediction Screenshot
 
-![Screenshot (2636)](https://user-images.githubusercontent.com/111626329/213904075-83e838be-ba42-4361-b74f-01a8e1b2827d.png)
+![Screenshot (2638)](https://user-images.githubusercontent.com/111626329/213930066-ae98d890-e8b0-4b87-9125-da1a2f287992.png)
